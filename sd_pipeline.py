@@ -171,7 +171,7 @@ class StableDiffusionGenerate:
         CONTROLNET_PATH = "lllyasviel/sd-controlnet-canny"
         DIFFUSER_PATH = "runwayml/stable-diffusion-v1-5"
         INPAINT_PATH = "runwayml/stable-diffusion-inpainting"
-        LORA_WEIGHTS = "400shijing.safetensors"
+        LORA_WEIGHTS = "OyGalaxy.safetensors"
         ESRGAN_WEIGHTS = "RealESRGAN_x4plus.pth"
         PROMPT_GENERATE = ("A galaxy contains stars and planets, including cyan netron stars, black holes far away. "
                            "animated, hdr, cinematic, illustration")
